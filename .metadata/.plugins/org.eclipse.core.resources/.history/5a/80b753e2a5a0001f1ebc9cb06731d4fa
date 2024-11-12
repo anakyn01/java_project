@@ -1,0 +1,16 @@
+package com.cocea.lesson.object;
+
+public class Method_2 {
+	
+	//함수 javascript function, = () => 
+	static void myMethod() {
+		System.out.println("함수는 호출할때만 실행되는 코드블럭");
+	}
+	
+
+	public static void main(String[] args) {
+		myMethod();
+
+	}
+
+}

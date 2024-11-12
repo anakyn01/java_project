@@ -1,0 +1,13 @@
+package com.cocea.lesson.object;//클래스를 가지고 있는 폴더
+
+public class Obj_1 {
+	
+	String you ="문자열";//부모가 소유하고 있는 재산
+	int y = 5;
+
+	public static void main(String[] args) {
+		// 특별이유가 없으면 항상 여기서 프린트
+
+	}
+
+}
