@@ -1,0 +1,18 @@
+package user;
+
+public class User {
+	
+	private String userID;
+	private String userPassword;
+	private String userName;
+	private String userGender;
+	private String userEmail;
+	
+/*회원가입을 할경우 유저는 UI에서 가입을 하고 자바클래스 접근제어자(private)에 필드와
+테이블에 필드가 일치해야만 회원가입에 성공
+접근제어자는 선언된 클래스내에서만 엑세스 할수 있다
+setter => 값을 세팅
+getter => 세팅된 값을 리턴
+
+*/
+}

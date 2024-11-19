@@ -1,0 +1,6 @@
+package user;
+
+public class User {
+//회원가입을 할경우 유저는 UI에서 가입을 하고 자바클래스 접근제어자(private)에 필드와
+//테이블에 필드가 일치해야만 회원가입에 성공
+}

@@ -1,0 +1,9 @@
+package com.cocea.lesson.math;
+
+public class Math {
+
+	public static void main(String[] args) {
+		//�ִ밪
+	}
+
+}

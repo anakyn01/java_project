@@ -1,0 +1,11 @@
+package com.cocea.lesson.math;
+
+public class Math_1 {
+
+	//예약어는 클래스명으로 사용하면 안된다
+	public static void main(String[] args) {
+		//최대값 내장객체(프로그래밍에서 설치후 import를 하지 않는걸)
+		System.out.println(Math_1.max(5, 10));
+	}
+
+}
